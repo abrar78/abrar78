@@ -32,8 +32,7 @@ Welcome to my GitHub profile! I am a passionate **Full Stack Web and Mobile App 
 
 ---
 
-## 📊 GitHub Stats:
-![Abrar's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrar78&show_icons=true&theme=tokyonight)
+
 
 ---
 
